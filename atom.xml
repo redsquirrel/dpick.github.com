@@ -4,7 +4,7 @@
   <title><![CDATA[Musings Of A Bored Developer]]></title>
   <link href="http://dpick.github.com/atom.xml" rel="self"/>
   <link href="http://dpick.github.com/"/>
-  <updated>2011-11-19T21:33:01-06:00</updated>
+  <updated>2011-11-19T21:41:07-06:00</updated>
   <id>http://dpick.github.com/</id>
   <author>
     <name><![CDATA[David Pick]]></name>
@@ -12,5 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Why Obtiva?]]></title>
+    <link href="http://dpick.github.com/blog/2011/07/09/why-obtiva/"/>
+    <updated>2011-07-09T00:00:00-05:00</updated>
+    <id>http://dpick.github.com/blog/2011/07/09/why-obtiva</id>
+    <content type="html"><![CDATA[<p>Recently several people have asked me why I choose to work at Obtiva, so I decided I would try and sum up some of my thoughts here.</p>
+<p>When I first starting looking for places to work, I knew that I wanted a place which encouraged <span class="caps">TDD</span> and agile development. While at first it may seem that they are a lot of companies which operate using those methodologies, it&#8217;s actually surprisingly difficult to find ones which do it correctly.  One of the things I like to point to during my interview process happened while I was in Seattle interviewing with Amazon. After being told by one of their developers that they use agile techniques because they have small teams, I asked if they did any pair programming. His response was that, if a developer is stuck on a problem, it&#8217;s perfectly fine to call someone else in for help for an hour or so, but any more than that would be a waste of the second developers time. Later that day I asked another interviewer if they did <span class="caps">TDD</span>. After explaining to him that <span class="caps">TDD</span> stood for test driven development, he told me that developers are free to test their code as much as they want, but they do have a QA department for a reason.</p>
+<p>Getting back on topic, the first reason I chose to come to Obtiva was that they actually did what they said. Everyone here has a great understanding of Agile and <span class="caps">TDD</span> and their use shows through in the way interviews are done, geekfest, blog posts people here do, and what they choose to speak about at conferences.</p>
+<p>The idea of practicing what you preach was the first thing I was looking for in a company and I think Obtiva does an amazing job of living up to what they tell people they do. There&#8217;s no we do Agile development, but we only have stand-up once a week and it lasts 45 minutes or we write tests for all of our code but only when it&#8217;s easy.</p>
+<p>The other thing I was looking for, and until I heard Dave Hoover talk about stretching incompetency I was unable to put into words, was Obtiva&#8217;s culture of learning. It&#8217;s not impossible to find companies that do Agile and <span class="caps">TDD</span> correctly, but the difference that set Obtiva apart for me from just about every other company I talked to, was their culture of learning and how dedicated everyone here is to helping new programmers become great seasoned developers. Whether it be the apprenticeship program, letting people like me pair with incredibly accomplished developers like Noel Rappin or Fred Polgrady, or just having the opportunity to discuss new and interesting topics every Tuesday with anyone from Carl (Obtiva&#8217;s current apprentice) to Michael Feathers. And that&#8217;s probably the biggest thing for me that sets Obtiva apart from other companies, it&#8217;s the fact that the new hire training isn&#8217;t to have me try to understand a code base by fixing simple bugs with another new hire for my first 3 months, because I&#8217;ll slow down a more seasoned developer.  It&#8217;s having me pair with people who understand the code base well and are very accomplished developers. This not only gets me up to speed quickly, but makes it very obvious where my deficiencies as a developer are in a non-threatening manor and allows me to iterate on them.</p>
+<p>I think the fact that everyone at Obtiva is willing to pair with anyone else is one of their biggest secrets to success. They don&#8217;t let developers sit in a quiet office by themselves for 15 years repeating year one over and over. They force them to interact with other developers and clients, which while at first may be uncomfortable is, in my opinion, the best way to learn.</p>
+<p>The reason I choose to come to Obtiva is not that they are able to recruit great developers, it&#8217;s that they are willing and able to grow them (or in this case me).</p>]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[New Hires and Agile]]></title>
+    <link href="http://dpick.github.com/blog/2011/07/07/new-hires-and-agile/"/>
+    <updated>2011-07-07T00:00:00-05:00</updated>
+    <id>http://dpick.github.com/blog/2011/07/07/new-hires-and-agile</id>
+    <content type="html"><![CDATA[<p>Recently I&#8217;ve been giving a lot of thought to how companies incorporate new hires into their culture and keep employees aware of the quality of their work (Probably because I just started a new job). As I understand it most companies give employees performance reviews yearly or semi-yearly. However, as developers who use agile techniques daily I find it odd that we don&#8217;t apply these same techniques to the way in which we give feedback to employees, especially when they are in the first few months with a new company.</p>
+<p>As a new employee my biggest fear in my first few weeks is that I&#8217;m not performing to the levels that my employer expects of me. However, as someone new to the company I have very little sense of what that level is. While to some extent new employees are able to pick this up from other people who have been with the company longer, this can be difficult if the new hire is working with other new hires, or someone who may not exemplify the company culture. I believe that something as simple as a once a week stand up meeting just to say keep up the good work or you might want to do more of &#8216;x&#8217; might allow a new employee to ensure their employer is happy with their performance. This not only allows for an employee to make changes as issues may arise, but also allows them to feel a little more relaxed because there is no chance of hearing a bombshell six months down the line.</p>
+<p>While this may not be a perfect solution (or even a good one), I believe that we should attempt to apply many of the agile principles to the ways in which our companies are run. By creating tighter feedback loops between the employer and employee, we can help to ensure that the product (in this case the work done by the employees) is more in line with what the company wants to produce.</p>]]></content>
+  </entry>
   
 </feed>
