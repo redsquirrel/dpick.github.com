@@ -1,0 +1,10 @@
+---
+layout: post
+title: New Hires and Agile
+---
+
+Recently I've been giving a lot of thought to how companies incorporate new hires into their culture and keep employees aware of the quality of their work (Probably because I just started a new job). As I understand it most companies give employees performance reviews yearly or semi-yearly. However, as developers who use agile techniques daily I find it odd that we don't apply these same techniques to the way in which we give feedback to employees, especially when they are in the first few months with a new company.
+
+As a new employee my biggest fear in my first few weeks is that I'm not performing to the levels that my employer expects of me. However, as someone new to the company I have very little sense of what that level is. While to some extent new employees are able to pick this up from other people who have been with the company longer, this can be difficult if the new hire is working with other new hires, or someone who may not exemplify the company culture. I believe that something as simple as a once a week stand up meeting just to say keep up the good work or you might want to do more of 'x' might allow a new employee to ensure their employer is happy with their performance. This not only allows for an employee to make changes as issues may arise, but also allows them to feel a little more relaxed because there is no chance of hearing a bombshell six months down the line.
+
+While this may not be a perfect solution (or even a good one), I believe that we should attempt to apply many of the agile principles to the ways in which our companies are run. By creating tighter feedback loops between the employer and employee, we can help to ensure that the product (in this case the work done by the employees) is more in line with what the company wants to produce.

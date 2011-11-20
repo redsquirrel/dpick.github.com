@@ -1,0 +1,18 @@
+---
+layout: post
+title: Why Obtiva?
+---
+
+Recently several people have asked me why I choose to work at Obtiva, so I decided I would try and sum up some of my thoughts here.
+
+When I first starting looking for places to work, I knew that I wanted a place which encouraged TDD and agile development. While at first it may seem that they are a lot of companies which operate using those methodologies, it's actually surprisingly difficult to find ones which do it correctly.  One of the things I like to point to during my interview process happened while I was in Seattle interviewing with Amazon. After being told by one of their developers that they use agile techniques because they have small teams, I asked if they did any pair programming. His response was that, if a developer is stuck on a problem, it's perfectly fine to call someone else in for help for an hour or so, but any more than that would be a waste of the second developers time. Later that day I asked another interviewer if they did TDD. After explaining to him that TDD stood for test driven development, he told me that developers are free to test their code as much as they want, but they do have a QA department for a reason.
+
+Getting back on topic, the first reason I chose to come to Obtiva was that they actually did what they said. Everyone here has a great understanding of Agile and TDD and their use shows through in the way interviews are done, geekfest, blog posts people here do, and what they choose to speak about at conferences.
+
+The idea of practicing what you preach was the first thing I was looking for in a company and I think Obtiva does an amazing job of living up to what they tell people they do. There's no we do Agile development, but we only have stand-up once a week and it lasts 45 minutes or we write tests for all of our code but only when it's easy.
+
+The other thing I was looking for, and until I heard Dave Hoover talk about stretching incompetency I was unable to put into words, was Obtiva's culture of learning. It's not impossible to find companies that do Agile and TDD correctly, but the difference that set Obtiva apart for me from just about every other company I talked to, was their culture of learning and how dedicated everyone here is to helping new programmers become great seasoned developers. Whether it be the apprenticeship program, letting people like me pair with incredibly accomplished developers like Noel Rappin or Fred Polgrady, or just having the opportunity to discuss new and interesting topics every Tuesday with anyone from Carl (Obtiva's current apprentice) to Michael Feathers. And that's probably the biggest thing for me that sets Obtiva apart from other companies, it's the fact that the new hire training isn't to have me try to understand a code base by fixing simple bugs with another new hire for my first 3 months, because I'll slow down a more seasoned developer.  It's having me pair with people who understand the code base well and are very accomplished developers. This not only gets me up to speed quickly, but makes it very obvious where my deficiencies as a developer are in a non-threatening manor and allows me to iterate on them.
+
+I think the fact that everyone at Obtiva is willing to pair with anyone else is one of their biggest secrets to success. They don't let developers sit in a quiet office by themselves for 15 years repeating year one over and over. They force them to interact with other developers and clients, which while at first may be uncomfortable is, in my opinion, the best way to learn.
+
+The reason I choose to come to Obtiva is not that they are able to recruit great developers, it's that they are willing and able to grow them (or in this case me).
