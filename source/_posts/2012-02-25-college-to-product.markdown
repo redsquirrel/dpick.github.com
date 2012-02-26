@@ -47,3 +47,12 @@ between school and working life and one of the things I've realized is that the 
 the length of the feedback loops. In school the length of time before receiving feedback on work you
 do ranges from instantaneous to a max of a few days. While in the working world that length of time 
 is much more variable and you never get a numeric score tacked on to your git commits :P.
+
+Around the same time, Kevin and Dave invited me to have a meeting with them to "go over how my first
+few week had gone." That's in quotations because it's roughly what the meeting invite said, but was
+pretty much unrelated to what we talked about it. We started talking and it quickly came out that
+Groupon was interested in acquiring Obtiva, but before they went through with it they wanted to do
+interviews with some of the Obtiva consultants we hadn't done work for Groupon. Me having only been
+with Obtiva for a week fit right into that category. But, they didn't want to tell everyone in the
+company yet so I couldn't talk about it with anyone. 
+
