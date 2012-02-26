@@ -30,9 +30,20 @@ hadn't used a lot of the same terms that people in industry were using. So, havi
 idea of what my boss had been talking about that idea I came into work the next day and was asked to
 pair with a senior consultant on the project I was going to be working on. I thought to myself
 "Awesome, I'm already getting to work directly with someone who knows way more than I do." While, it
-was the case that he knew way more than me, he unfortunately wasn't great at slowing down and
-explaining things to me and I was still too nervous to stop him to say I don't understand. This
-probably mostly stems from my own insecurities and unwillingness to speak up, but I think it also
+was the case that he knew way more than me. He unfortunately wasn't great at slowing down and
+explaining things to me and it never even occurred to me that it was my first time seeing code 
+from a fairly large project and no one was expecting me to completely understand what was going on. 
+This probably mostly stems from my own insecurities and unwillingness to speak up, but I think it also
 speaks to the assumptions we make of our new hires, especially those coming straight from college.
-It never even occurred to me that it was my first time seeing code from a fairly large project and
-no one was expecting me to completely understand what was going on. 
+
+After spending my first week or so pairing with the senior developer on the project I was working on a
+few interesting things happened. First, I wrote a blog post about incorporating ideas from agile
+development into how companies bring on new hires [New Hires And Agile
+Techniques](http://dpick.github.com/blog/2011/07/07/new-hires-and-agile/) partly because as a new
+hire I was thinking about those things and partly because I felt (probably unjustly) that I wasn't
+getting enough feedback. This led to a few interesting discussions with my coworkers and me all of
+the sudden getting a lot more feedback :). I started to think a lot more about the differences
+between school and working life and one of the things I've realized is that the major difference is
+the length of the feedback loops. In school the length of time before receiving feedback on work you
+do ranges from instantaneous to a max of a few days. While in the working world that length of time 
+is much more variable and you never get a numeric score tacked on to your git commits :P.
